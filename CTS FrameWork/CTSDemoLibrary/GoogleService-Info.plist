@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>696348550317-bsnjc3iepr3mok8i7ml71nncub65v7sd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.696348550317-bsnjc3iepr3mok8i7ml71nncub65v7sd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwCf8O_AeR7ex1Ie3gGukOo9XwVUSNBxY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>696348550317</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.reusble.framework</string>
+	<key>PROJECT_ID</key>
+	<string>reusueable</string>
+	<key>STORAGE_BUCKET</key>
+	<string>reusueable.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:696348550317:ios:451a9969b5b728da</string>
+	<key>DATABASE_URL</key>
+	<string>https://reusueable.firebaseio.com</string>
+</dict>
+</plist>

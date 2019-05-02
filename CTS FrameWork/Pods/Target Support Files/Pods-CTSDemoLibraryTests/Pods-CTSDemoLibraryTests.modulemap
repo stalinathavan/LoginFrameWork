@@ -1,0 +1,6 @@
+framework module Pods_CTSDemoLibraryTests {
+  umbrella header "Pods-CTSDemoLibraryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
